@@ -1,3 +1,6 @@
+
+!!!!!!!!! BELOW IS JUST A PATTERN FOR MY OWN CODING JOURNAL !!!!!!!
+
 # 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)

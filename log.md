@@ -1,3 +1,28 @@
+********** Day 1: Jan 8, 2018, Monday  ********** 
+
+Today’s Progress:
+
+Created an android icon by doing the following:
+1) create 512×512 icon
+2) add favicon in Wordpres
+3) bookmark the website in chrome
+4) add bookmark on the mobile screen by clicking “Add shortcut to home screen” from chrome browser
+
+Link to work: http://www.mcubedesigns.com/box/index.php/2018/01/08/r1d1/
+
+
+Today’s reads:
+Using the Fork-and-Branch Git Workflow
+https://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/
+
+How to Add Icons for iPhone, iPad & Android to Your Website
+
+4 Easy Ways To Add A Favicon In WordPress
+https://www.wpsuperstars.net/add-a-favicon-in-wordpress/
+
+How To Add Bookmark Huawei P9 Homescreen
+
+
 
 !!!!!!!!! BELOW IS JUST A PATTERN FOR MY OWN CODING JOURNAL !!!!!!!
 

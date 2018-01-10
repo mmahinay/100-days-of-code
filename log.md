@@ -1,3 +1,15 @@
+********** Day 2: Jan 9, 2018, Tuesday **********
+
+Day 2: Jan 9, 2018, Tuesday
+
+Today’s Progress:
+
+Decided to continue my Freecodecamp Map journey 😊
+
+Still finishing the Basic JavaScript where I left off centuries ago..Push!
+
+Link: http://www.mcubedesigns.com/box/index.php/category/100daysofcode/
+
 ********** Day 1: Jan 8, 2018, Monday  ********** 
 
 Today’s Progress:
